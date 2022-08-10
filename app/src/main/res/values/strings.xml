@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">AdBoard</string>
+    <!--menu drawer strings-->
+    <string name="ad">Ads</string>
+    <string name="my_Ads">MyAds</string>
+    <string name="ad_cars">Cars</string>
+    <string name="ad_computers">Computer/peripheral</string>
+    <string name="ad_phone">Phone</string>
+    <string name="ad_domestic">Domestics</string>
+    <string name="ad_cat">Account</string>
+    <string name="ac_sign_up">Sign Up</string>
+    <string name="ac_sign_in">Sign In</string>
+    <string name="ac_sign_out">Sign Out</string>
+    <string name="vxod" translatable="false">вход</string>
+    <string name="vixod" translatable="false">выход</string>
+   <string name="login_hint">Login/E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="buttonenter">Enter</string>
+    <string name="buttonforgot">Forget Password?</string>
+</resources>

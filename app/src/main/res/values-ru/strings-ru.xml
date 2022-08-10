@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ad">Обьявления</string>
+    <string name="my_Ads">Мои обьявления</string>
+    <string name="ad_cars">Машины</string>
+    <string name="ad_computers">Компьютеры/Периферия</string>
+    <string name="ad_phone">Телефон</string>
+    <string name="ad_domestic">Бытовая техника</string>
+    <string name="ad_cat">Аккаунт</string>
+    <string name="ac_sign_up">Зарегистрироваться</string>
+    <string name="ac_sign_in">Войти</string>
+    <string name="ac_sign_out">Выйти</string>
+    <string name="login_hint">Логин/Электронная почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="buttonenter">Войти</string>
+    <string name="buttonforgot">Забыли пароль?</string>
+</resources>
